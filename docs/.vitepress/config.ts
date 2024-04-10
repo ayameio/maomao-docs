@@ -5,6 +5,7 @@ export default defineConfig({
   title: "maomao docs",
   head: [['link', { rel: 'icon', href: '/vibeIcon.png' }]],
   description: "maomao documentation",
+  base: "/maomao-docs/",
   themeConfig: {
     logo: './vibeIcon.png',
     nav: [

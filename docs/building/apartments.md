@@ -1,4 +1,6 @@
 ## Apartments
+
+<img src="\assets\images\buildings\frostyHearth.png" width="256" height="256">
 Apartments serve for housing citizens and increase your population number. To place certain buildings, a minimum specified level of population may be required.
 <br>
 <br>
