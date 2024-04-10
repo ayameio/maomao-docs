@@ -8,18 +8,18 @@ hero:
   tagline: Your faithful guide to the game.
   actions:
     - theme: brand
-      text: About maomao
-      link: /markdown-examples
+      text: Read Me!
+      link: /about-maomao
     - theme: alt
-      text: maomao Library
-      link: /api-examples
+      text: Founders Collection
+      link: /founders-collection
 
 features:
-  - title: Feature A
+  - title: Library
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Collections
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Marketplace
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

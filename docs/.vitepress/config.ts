@@ -9,7 +9,7 @@ export default defineConfig({
     logo: './vibeIcon.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Collections', link: '/markdown-examples' },
+      { text: 'Collections', link: '/collections' },
       { text: 'DRiP', link: 'https://drip.haus/profile/supermalina' },
       { text: 'MagicEden', link: 'https://magiceden.io/' },
     ],
@@ -38,6 +38,7 @@ export default defineConfig({
           { text: 'Transmutation', link: '/transmutation' },
           { text: 'Production', link: '/production' },
           { text: 'Merchant', link: '/merchant' },
+          { text: 'Realm Vibe', link: '/realm-vibe' },
         ]
       },
       {
@@ -55,6 +56,7 @@ export default defineConfig({
         text: 'Farming',
         items: [
           { text: 'Crops', link: '/farming/crops' },
+          { text: 'Soils', link: '/farming/soils' },
         ]
       },
       {
@@ -71,7 +73,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'github', link: 'https://github.com/ayameio' },
       { icon: 'discord', link: 'https://discord.gg/pZ2jYXU2Us' },
       { icon: 'twitter', link: 'https://twitter.com/supermalina_' },
     ]
