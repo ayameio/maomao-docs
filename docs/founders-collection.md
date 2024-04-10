@@ -38,7 +38,7 @@ This distribution scheme will be followed with each upcoming collection.
 <li>20% treasury</li>
 <li>80% airdrop</li>
 </ul>
-To qualify for the maomao token airdrop, own collectibles I drop on DRiP, or a maomao Founders Collection NFT.
+To qualify for the maomao token airdrop, collect collectibles I drop on DRiP, or get a maomao Founders Collection NFT. The more collectibles you own, more tokens you get.
 
 Each piece of maomao Founders or maomao Realm collection have it's own .dat file that stores game progression. By transferring the token, you also transfer the game data.
 This way, players may be able to make money, if they manage to find a buyer that does not want to play from the start.

@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Welcome!"
-  text: "maomao docs"
+  text: "..at maomao docs"
   tagline: Your faithful guide to the game.
   actions:
     - theme: brand
@@ -13,13 +13,7 @@ hero:
     - theme: alt
       text: Founders Collection
       link: /founders-collection
-
 features:
-  - title: Library
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Collections
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Marketplace
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+- icon: 🛠️
+  title: Under construction!
+  details: This site is still under development and all necessary information may not be provided yet.

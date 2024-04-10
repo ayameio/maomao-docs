@@ -24,3 +24,13 @@ The UI is filled with recipes and production slots.
 <figure>
     <img src="\assets\images\screenshots\crafting-screenshot.png"alt="maomao Crafting">
 </figure>
+
+## Currency, Base Materials, UI Icons
+
+| Gold Bar                                  | Diamond                                  |
+|------------------------------------------|------------------------------------------|
+| ![Alt text for image 1](\assets\images\icons\goldBar.png)      | ![Alt text for image 2](\assets\images\icons\diamond.png)      |
+| Atom                                  | Infused Brick                                  |
+| ![Alt text for image 1](\assets\images\items\atom.png)      | ![Alt text for image 2](\assets\images\items\infusedBrick.png)      |
+| Backpack Icon                                  | Build Icon                                  |
+| ![Alt text for image 1](\assets\images\icons\backpack.png)      | ![Alt text for image 2](\assets\images\icons\buildHammer.png)      |

@@ -1,14 +1,16 @@
-## Beginning of maomao development
+# A short story of how it all began..
 
 #### September, 2023 
-I had an idea of creating a mobile game. Since I have a lot of experience in programming and making art, this idea infested my mind more and more everyday. I really enjoy designing and programming things. I've done retarded amounts of 3D work in Blender, took on countless impossible programming projects since 2016 (didn't finish like 98% of them, just as every human :D and learned a crap ton).
+I had an idea of creating a mobile game. Since I have a lot of experience in programming and making art, this idea infested my mind more and more everyday. I really enjoy designing and programming things. I've done retarded amounts of 3D work in Blender (poly-modelling, sculpting, animating), took on countless impossible programming projects since 2016 (didn't finish like 98% of them, just as every human :D and learned a crap ton).
+
+This is the biggest project I ever worked on, and actually managed to push it to the finish line.
 
 <br>
 
 #### October 17th, 2023 
-I got fired from my job, so I took it as a sign! (^^)
+I got fired from my job, so I took it as a sign! (^^) ..and so brainstorming began..
 
-The idea of obeying Android/iOS app store policies seemed very idiotic to me (ain't gonna share 30% of my revenue are u serious..?). So, I recently decided to go with Web3, because I love Solana and I love NFTs. I thought building on crypto would be much more difficult but it's not THAT hard as one would think, considering how crypto ecosystem has evolved over the years. Crypto space represents digital freedom.
+The idea of obeying Android/iOS app store policies seemed very idiotic to me (ain't gonna share 30% of my revenue are u serious..?). So, I recently decided to go with Web3, because I love Solana and I love NFTs. I thought building on crypto would be much more difficult but it's not THAT hard as one would think, considering how crypto ecosystem has evolved over the years. To me, crypto space represents digital freedom.
 
 I've always liked games, especially games that have a 'grindy' aspect, but also games that are cute, cozy and welcoming.. Games that make you feel free, where you can do what you like, where you take care of things like pets, citizens, buildings, heroes, etc..
 
@@ -19,7 +21,7 @@ I have a clear vision for maomao, and many popular games that exist today served
 
 #### March, 2024 (about 5-6 months later)
 
-The game is in a playable state, but there's still a couple things missing like sound / particle effects and animations. The main components such building, crafting, expanding your realm, serialization is done and tested. I also need to "glue" some of individual components of the game together.
+The game is in a playable state, but there's still a couple things missing like sound / particle effects and animations. The main components such building, crafting, expanding your realm, serialization is done and tested. I also need to "glue" some of individual components of the game together. I am also still generating data files, generating documentation for this website and making sure everything works as intended.
 
 Early beta phase will help me optimize the game progression curve and user experience (optimal experience and currency rewards etc.) Testers will of course be rewarded! :)
 
