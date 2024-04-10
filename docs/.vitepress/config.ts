@@ -19,7 +19,7 @@ export default defineConfig({
       {
         text: 'Information',
         items: [
-          { text: 'About', link: '/about-maomao' },
+          { text: 'Read Me!', link: '/about-maomao' },
           { text: 'Founders Collection', link: '/founders-collection' },
           { text: 'Future of maomao', link: '/future-of-maomao' },
           { text: 'Screenshots', link: '/screenshots' },
