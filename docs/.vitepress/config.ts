@@ -54,7 +54,7 @@ export default defineConfig({
       {
         text: 'Farming',
         items: [
-          { text: 'Crops', link: '/crops' },
+          { text: 'Crops', link: '/farming/crops' },
         ]
       },
       {

@@ -14,7 +14,7 @@ Phase 1 --> Farming, Gathering resources, Crafting, building and decorating your
 
 Phase 2 --> Collecting pets, adventurers and farmers. Farming gear in Infinite Dungeons, Resource Farming, Transmuting gemstones and Augmenting items, and many other activities. (about 25% is already developed)
 
-Currently, the game is in a state where it's playable but there's still a couple things missing like sound / particle effects and animations. The main components such building, crafting, expanding your realm, serialization is done and tested. I also need to "glue" some of individual components of the game together.
+Currently, the game is in a playable state, but there's still a couple things missing like sound / particle effects and animations. The main components such building, crafting, expanding your realm, serialization is done and tested. I also need to "glue" some of individual components of the game together.
 
 Early BETA phase will help me optimize the game progression curve and user experience (optimal experience and currency rewards etc.) Testers will of course be rewarded! :)
 
@@ -22,8 +22,8 @@ The whole project was built in shadows, I didn't make any Discord/Twitter to hyp
 
 Going forward I will use my personal Twitter and Discord server for both, personal and project related matters. Links are at the very bottom of this post.
 
-It's 2024. The dev team consists of me, my friends and AI. I do the design and architecture.. my friends do the boring stuff. I've already invested so much time and resources into this game, and have come so far. I'm curious to see much further I can push this thing.
+The dev team consists of me, my friends and AI. I do the design and architecture.. my friends do some other stuff, the boring stuff is passed to AI. I've already invested so much time and resources into this game, and have come so far. I'm curious to see much further I can push this thing.
 
 This project is dedicated to me, and I am dedicated to this project. It's a personal journey of evolving myself as a creator. Having my mind, heart and soul aligned is wonderful, and maomao is a product of it.
 
-I've named this project after one of my favorite anime characters.
+I've named this project after one of my favorite anime characters. I chose Maomao from Apothecary Diaries, because naming this after Gojo Satoru would be weird. :D
