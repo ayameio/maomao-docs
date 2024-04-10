@@ -1,10 +1,12 @@
-## Beginning of maomao development
+# maomao Founders Collection
 
-Base info
-	Supply: 8888 tokens
-	Price: 0.88 SOL
-	Royalties: 4.4%
-	Public Mint Only (FCFS)
+### Base info
+<ul>
+<li>Supply: 8888 tokens</li>
+<li>Price: 0.88 SOL</li>
+<li>Royalties: 4.4%</li>
+<li>Public Mint Only (FCFS)</li>
+</ul>
 
 No grinding for whitelists. Simply, I want to do things my way.
 
@@ -14,17 +16,22 @@ Founders benefits
 	Random starter pack Loot
 	and others...
 
-Funds distribution
-	30% maomao token LP
-	60% project development
-	10% airdrops to Founders Collection holders
-		- Meaning, 10% of what each collection makes, will be distributed amongst founders.
+### Funds distribution
+<ul>
+<li>30% maomao token LP</li>
+<li>60% project development</li>
+<li>10% airdrops to Founders Collection holders</li>
+</ul>
 
 This distribution scheme will be followed with each upcoming collection.
 
-maomao future Token distribution
-	25% treasury
-	75% airdrop
+### maomao future token distribution
+#### <em>Token will launch after successful beta phase, prior to actual game release.</em>
+<ul>
+<li>25% treasury</li>
+<li>75% airdrop</li>
+</ul>
+
 
 Honestly, I might go for 95% airdrop, I don't really care.
 

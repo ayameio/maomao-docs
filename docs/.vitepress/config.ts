@@ -6,7 +6,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/vibeIcon.png' }]],
   description: "maomao documentation",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: './vibeIcon.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Collections', link: '/markdown-examples' },
@@ -43,12 +43,12 @@ export default defineConfig({
       {
         text: 'Building',
         items: [
-          { text: 'Apartments', link: '/apartments' },
-          { text: 'Decorations', link: '/decorations' },
-          { text: 'Gemstones Productions', link: '/gemstones-productions' },
-          { text: 'Goods Productions', link: '/goods-productions' },
-          { text: 'Idle Productions', link: '/idle-productions' },
-          { text: 'Materials Productions', link: '/materials-productions' },
+          { text: 'Apartments', link: '/building/apartments' },
+          { text: 'Decorations', link: '/building/decorations' },
+          { text: 'Gemstones Productions', link: '/building/gemstones-productions' },
+          { text: 'Goods Productions', link: '/building/goods-productions' },
+          { text: 'Idle Productions', link: '/building/idle-productions' },
+          { text: 'Materials Productions', link: '/building/materials-productions' },
         ]
       },
       {
@@ -58,12 +58,14 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Gameplay',
+        text: 'Items',
         items: [
-          { text: 'Augmentation', link: '/augmentation' },
-          { text: 'Transmutation', link: '/transmutation' },
-          { text: 'Production', link: '/production' },
-          { text: 'Merchant', link: '/merchant' },
+          { text: 'Goods', link: '/items/goods' },
+          { text: 'Materials', link: '/items/materials' },
+          { text: 'Gemstones', link: '/items/gemstones' },
+          { text: 'Consumables', link: '/items/consumables' },
+          { text: 'Keys', link: '/items/keys' },
+          { text: 'Loot Boxes', link: '/items/loot-boxes' },
         ]
       },
     ],
