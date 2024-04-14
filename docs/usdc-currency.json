@@ -1,0 +1,81 @@
+{
+	"goldCoin": {
+		"imagePath": "/assets/images/icons/goldCoin.png",
+		"nodes": {
+			"s": {
+				"amount": 10000,
+				"usdc": "3.32 USDC"
+			},
+			"m": {
+				"amount": 50000,
+				"usdc": "9.98 USDC"
+			},
+			"l": {
+				"amount": 150000,
+				"usdc": "19.97 USDC"
+			},
+			"xl": {
+				"amount": 500000,
+				"usdc": "49.31 USDC"
+			},
+			"xxl": {
+				"amount": 1000000,
+				"usdc": "88.88 USDC"
+			}
+		}
+	},
+	"goldBar": {
+		"imagePath": "/assets/images/icons/goldBar.png",
+		"nodes": {
+			"s": {
+				"amount": 3000,
+				"usdc": "3.32 USDC"
+			},
+			"m": {
+				"amount": 10000,
+				"usdc": "9.98 USDC"
+			},
+			"l": {
+				"amount": 25000,
+				"usdc": "19.97 USDC"
+			},
+			"xl": {
+				"amount": 70000,
+				"usdc": "49.31 USDC"
+			},
+			"xxl": {
+				"amount": 150000,
+				"usdc": "88.88 USDC"
+			}
+		}
+	},
+	"diamond": {
+		"imagePath": "/assets/images/icons/diamond.png",
+		"nodes": {
+			"xs": {
+				"amount": 100,
+				"usdc": "3.32 USDC"
+			},
+			"s": {
+				"amount": 400,
+				"usdc": "9.98 USDC"
+			},
+			"m": {
+				"amount": 900,
+				"usdc": "19.97 USDC"
+			},
+			"l": {
+				"amount": 2000,
+				"usdc": "49.31 USDC"
+			},
+			"xl": {
+				"amount": 6000,
+				"usdc": "88.88 USDC"
+			},
+			"xxl": {
+				"amount": 20000,
+				"usdc": "188.88 USDC"
+			}
+		}
+	}
+}

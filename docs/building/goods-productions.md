@@ -1,3 +1,9 @@
+# Goods Productions
+<img src="\assets\images\buildings\goods\greenMagicEmporium.png" width="256" height="256">
+Goods Productions info..
+<br>
+<br>
+This document is still under development and all necessary information may not be provided yet.
 
 <table>
     <thead>
@@ -33,15 +39,15 @@
                         <table>
                             <thead>
                                 <tr>
-                                        <td>Gold Coin</td>
+                                    <td>Gold Coin</td>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                        <td><img src=/assets/images/items/goldCoin.png width='64' height='64'></td>
+                                    <td><img src=/assets/images/items/goldCoin.png width='64px' height='64px'></td>
                                 </tr>
                                 <tr>
-                                        <td>500</td>
+                                    <td>500</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -77,15 +83,15 @@
                         <table>
                             <thead>
                                 <tr>
-                                        <td>Gold Coin</td>
+                                    <td>Gold Coin</td>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                        <td><img src=/assets/images/items/goldCoin.png width='64' height='64'></td>
+                                    <td><img src=/assets/images/items/goldCoin.png width='64px' height='64px'></td>
                                 </tr>
                                 <tr>
-                                        <td>500</td>
+                                    <td>500</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -121,21 +127,21 @@
                         <table>
                             <thead>
                                 <tr>
-                                        <td>Gold Coin</td>
-                                        <td>Infused Brick</td>
-                                        <td>Atom</td>
+                                    <th>Gold Coin</th>
+                                    <th>Infused Brick</th>
+                                    <th>Atom</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                        <td><img src=/assets/images/items/goldCoin.png width='64' height='64'></td>
-                                        <td><img src=/assets/images/items/infusedBrick.png width='64' height='64'></td>
-                                        <td><img src=/assets/images/items/atom.png width='64' height='64'></td>
+                                    <td><img src=/assets/images/items/goldCoin.png width='64px' height='64px'></td>
+                                    <td><img src=/assets/images/items/infusedBrick.png width='64px' height='64px'></td>
+                                    <td><img src=/assets/images/items/atom.png width='64px' height='64px'></td>
                                 </tr>
                                 <tr>
-                                        <td>500</td>
-                                        <td>120</td>
-                                        <td>999</td>
+                                    <td>500</td>
+                                    <td>120</td>
+                                    <td>999</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -171,15 +177,15 @@
                         <table>
                             <thead>
                                 <tr>
-                                        <td>Gold Coin</td>
+                                    <td>Gold Coin</td>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                        <td><img src=/assets/images/items/goldCoin.png width='64' height='64'></td>
+                                    <td><img src=/assets/images/items/goldCoin.png width='64px' height='64px'></td>
                                 </tr>
                                 <tr>
-                                        <td>500</td>
+                                    <td>500</td>
                                 </tr>
                             </tbody>
                         </table>

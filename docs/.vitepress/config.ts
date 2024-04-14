@@ -71,6 +71,13 @@ export default defineConfig({
           { text: 'Loot Boxes', link: '/items/loot-boxes' },
         ]
       },
+      {
+        text: 'USDC Market',
+        items: [
+          { text: 'Currency', link: '/usdc-market/currency' },
+          { text: 'Loot Boxes', link: '/usdc-market/loot-boxes' },
+        ]
+      },
     ],
 
     socialLinks: [
