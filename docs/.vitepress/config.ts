@@ -3,7 +3,24 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "maomao docs",
-  head: [['link', { rel: 'icon', href: '/vibeIcon.png' }]],
+  head: [
+    [
+      'link',
+       { rel: 'icon', href: '/vibeIcon.png'}
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap', rel: 'stylesheet' }
+    ]
+  ],
   description: "maomao documentation",
   base: "/maomao-docs/",
   themeConfig: {

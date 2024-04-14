@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'FredokaOne';
+	src: url('../public/fonts/Fredoka-Regular.ttf') format('ttf'),
+  }
+  
+  /* Use the font wherever needed */
+  body {
+	font-family: 'FredokaOne', sans-serif;
+  }
+  

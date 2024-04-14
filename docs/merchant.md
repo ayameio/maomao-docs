@@ -1,4 +1,5 @@
 ## Merchant
+<img src="\assets\images\characters\chibiMerchant.png" width="256" height="256">
 Merchant shows up at your Realm every 6 hours (based on the time you first loaded your Realm). This entity will have all types of items for sale, however the chances of it having a Key for sale is significantly lower compared to having a Material for sale.
 
 Realm Vibe points will increase the chances of a Merchant to possess more valuable Items and also dictates the size of a price discount. Currency that the Merchant will accept for each individual Item is selected randomly by the algorithm, as well as the price per Item.

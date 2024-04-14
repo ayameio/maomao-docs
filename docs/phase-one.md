@@ -1,4 +1,5 @@
 ## Phase One
+<img src="\assets\images\crops\cornCrops.png" width="256" height="256">
 The game starts with loading your Realm of size 250x100 cells. Each cell is capable of holding a structure of some kind. Crops are usually of size 1x1, some buildings are 3x3 and higher.
 
 However, at the beginning you'll only have a space of size 50x50 cells available to you. The rest of your Realm is flooded with environment, and other objects you need to get rid of in order to be able to use that space.
