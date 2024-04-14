@@ -1,5 +1,5 @@
 ## Future of maomao
-
+<img src="\assets\images\icons\future.png" width="256" height="256">
 I will share with you a few ideas that I have in my mind when it comes to extending the game limitlessly.. and I'm not playing small here.
 
 ### Economy

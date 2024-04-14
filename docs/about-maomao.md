@@ -1,4 +1,5 @@
 # A short story of how it all began..
+<img src="\assets\images\icons\spellBook.png" width="256" height="256">
 
 #### September, 2023 
 I had an idea of creating a mobile game. Since I have a lot of experience in programming and making art, this idea infested my mind more and more everyday. I really enjoy designing and programming things. I've done retarded amounts of 3D work in Blender (poly-modelling, sculpting, animating), took on countless impossible programming projects since 2016 (didn't finish like 98% of them, just as every human :D and learned a crap ton).
