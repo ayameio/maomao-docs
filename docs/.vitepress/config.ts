@@ -30,6 +30,7 @@ export default defineConfig({
       { text: 'Collections', link: '/collections' },
       { text: 'DRiP', link: 'https://drip.haus/profile/supermalina' },
       { text: 'MagicEden', link: 'https://magiceden.io/' },
+      { text: 'Twitch', link: 'https://www.twitch.tv/supermalina_' },
     ],
 
     sidebar: [

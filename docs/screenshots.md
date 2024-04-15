@@ -14,6 +14,8 @@ Here you can see a base view of your Realm. It's practically a grid of 250x150 c
 I took this screenshot only for simple demonstration purposes. You can see only a quarter of the whole Realm here.
 <figure>
     <img src="\assets\images\screenshots\realm-screenshot.png"alt="maomao Realm">
+    <br>
+    <img src="\assets\images\screenshots\realm-screenshot-2.png"alt="maomao Realm">
 </figure>
 <br>
 
