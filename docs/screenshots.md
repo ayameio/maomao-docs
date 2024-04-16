@@ -19,6 +19,13 @@ I took this screenshot only for simple demonstration purposes. You can see only 
 </figure>
 <br>
 
+### Character UI
+<figure>
+    <img src="\assets\images\screenshots\character-screenshot.png"alt="character leveling">
+</figure>
+<br>
+<a href="https://twitter.com/supermalina_/status/1780146246872682573">Video on Twitter</a>
+
 ### Crafting
 Every building that is able to produce something (except Idle buildings), have their own UI of this kind.
 The UI is filled with recipes and production slots.
