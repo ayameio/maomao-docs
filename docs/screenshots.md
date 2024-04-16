@@ -1,7 +1,7 @@
 ![Alt text for image 1](\assets\images\cuteWallpaper.png)
 
 
-### Building Shop
+## Building Shop
 Here's a simple Building Shop menu. As you can see, each building has it's own name, size, building time, vibe points and cost.
 Every building belongs to a specific category, based on it's purpose.
 <figure>
@@ -9,7 +9,7 @@ Every building belongs to a specific category, based on it's purpose.
 </figure>
 <br>
 
-### Realm
+## Realm
 Here you can see a base view of your Realm. It's practically a grid of 250x150 cells, but almost completely empty. :D
 I took this screenshot only for simple demonstration purposes. You can see only a quarter of the whole Realm here.
 <figure>
@@ -19,7 +19,7 @@ I took this screenshot only for simple demonstration purposes. You can see only 
 </figure>
 <br>
 
-### Character UI
+## Character UI
 <figure>
     <img src="\assets\images\screenshots\character-screenshot.png"alt="character leveling">
 </figure>

@@ -1,14 +1,14 @@
 # A short story of how it all began..
 <img src="\assets\images\icons\spellBook.png" width="256" height="256">
 
-#### September, 2023 
+## September, 2023 
 I had an idea of creating a mobile game. Since I have a lot of experience in programming and making art, this idea infested my mind more and more everyday. I really enjoy designing and programming things. I've done retarded amounts of 3D work in Blender (poly-modelling, sculpting, animating), took on countless impossible programming projects since 2016 (didn't finish like 98% of them, just as every human :D and learned a crap ton).
 
 This is the biggest project I ever worked on, and actually managed to push it to the finish line.
 
 <br>
 
-#### October 17th, 2023 
+## October 17th, 2023 
 I got fired from my job, so I took it as a sign! (^^) ..and so brainstorming began..
 
 The idea of obeying Android/iOS app store policies seemed very idiotic to me (ain't gonna share 30% of my revenue are u serious..?). So, I recently decided to go with Web3, because I love Solana and I love NFTs. I thought building on crypto would be much more difficult but it's not THAT hard as one would think, considering how crypto ecosystem has evolved over the years. To me, crypto space represents digital freedom.
@@ -20,7 +20,7 @@ I have a clear vision for maomao, and many popular games that exist today served
 
 <br>
 
-#### March, 2024 (about 5-6 months later)
+## March, 2024 (about 5-6 months later)
 
 The game is in a playable state, but there's still a couple things missing like sound / particle effects and animations. The main components such building, crafting, expanding your realm, serialization is done and tested. I also need to "glue" some of individual components of the game together. I am also still generating data files, generating documentation for this website and making sure everything works as intended.
 
@@ -30,7 +30,7 @@ The whole project was built in shadows, I didn't make any Discord/Twitter to hyp
 
 <br>
 
-#### More notes...
+## More notes...
 <em>Phase 1 --> Farming, Gathering resources, Crafting, building and decorating your Realm as much as you like. (development 98% completed)</em>
 
 <em>Phase 2 --> Collecting pets, adventurers and farmers. Farming gear in Infinite Dungeons, Resource Farming, Transmuting gemstones and Augmenting items, and many other activities. (about 25% is already developed and tested)</em>
@@ -47,5 +47,5 @@ As of now, I am still unemployed and I am working on maomao full-time.
 
 <br>
 
-#### Random note
+## Random note
 I've named this project after one of my favorite anime characters. I chose Maomao from Apothecary Diaries, because naming this after Gojo Satoru would be weird. :D

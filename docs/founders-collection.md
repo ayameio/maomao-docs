@@ -1,7 +1,7 @@
 # maomao Founders Collection
 <img src="\assets\images\icons\vibeIcon.png" width="256" height="256">
 
-### Base Collection Information
+## Base Collection Information
 <br>
 
 #### <em>I would love to launch Founders Collection on MagicEden Launchpad.</em>
@@ -15,7 +15,7 @@
 </ul>
 
 
-### Founders benefits
+## Founders benefits
 <ul>
 <li>Weekly Gift Box airdrop (Gift Boxes contain random loot)</li>
 <li>Access to early content (Beta + New content early for testing purposes. Testers will always be rewarded)</li>
@@ -24,7 +24,7 @@
 <li>other bonuses to be specified later...</li>
 </ul>
 
-### Funds distribution
+## Funds distribution
 <ul>
 <li>25% maomao token Liquidity Pool</li>
 <li>75% project development</li>
@@ -32,7 +32,7 @@
 
 This distribution scheme will be followed with each upcoming collection.
 
-### maomao future token distribution
+## maomao future token distribution
 #### <em>Token will launch alongside with the release of stable version of the game. Just right after beta is closed.</em>
 <ul>
 <li>20% treasury</li>
