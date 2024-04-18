@@ -6,7 +6,7 @@ export default defineConfig({
   head: [
     [
       'link',
-       { rel: 'icon', href: '/vibeIcon.png'}
+       { rel: 'icon', href: '/maomao-docs/vibeIcon.png'}
     ],
     [
       'link',
