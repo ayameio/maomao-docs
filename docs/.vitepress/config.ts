@@ -39,7 +39,7 @@ export default defineConfig({
         text: 'Information',
         items: [
           { text: 'Read Me!', link: '/about-maomao' },
-          { text: 'Founders Collection', link: '/founders-collection' },
+          { text: 'Originals Collection', link: '/originals-collection' },
           { text: 'Future of maomao', link: '/future-of-maomao' },
           { text: 'Screenshots', link: '/screenshots' },
         ]
