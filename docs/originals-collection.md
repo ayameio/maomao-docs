@@ -9,9 +9,15 @@
 <ul>
 <li>Supply: 888 tokens (222 WL / 666 PUBLIC)</li>
 <li>Price: 0.88/1.11 SOL</li>
+<li>PRE-SALE: 0.55 SOL</li>
 <li>Royalties: 4.4%</li>
 </ul>
 
+## Collab
+https://atlas3.io/project/maomao-originals
+
+
+## Sneak Peek
 <div style="display: flex;">
 	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
 		<source src="\assets\videos\HellRaimentsV2.mp4" type="video/mp4">
@@ -19,6 +25,16 @@
 	</video>
 	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
 		<source src="\assets\videos\FrostbloomEmbraceV2.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\080.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\085.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </div>
