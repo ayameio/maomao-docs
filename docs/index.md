@@ -11,8 +11,8 @@ hero:
       text: Read Me!
       link: /about-maomao
     - theme: alt
-      text: Founders Collection
-      link: /founders-collection
+      text: Originals Collection
+      link: /originals-collection
 features:
 - icon: 🛠️
   title: Under construction!

@@ -40,8 +40,8 @@ export default defineConfig({
         items: [
           { text: 'Read Me!', link: '/about-maomao' },
           { text: 'Originals Collection', link: '/originals-collection' },
-          { text: 'Future of maomao', link: '/future-of-maomao' },
-          { text: 'Screenshots', link: '/screenshots' },
+          { text: 'The Future', link: '/future-of-maomao' },
+          { text: 'Game Sneak Peek', link: '/screenshots' },
         ]
       },
       {

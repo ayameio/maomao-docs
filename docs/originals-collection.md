@@ -4,7 +4,7 @@
 ## Base Collection Information
 <br>
 
-### Multiple maomao collections will be launched across the projects lifespan. maomao Originals consists of first 888 items in the game. Each season, another 888 items will be placed in the game, and new collection will emerge.
+### Multiple maomao collections will be launched over the project's lifespan. maomao Originals consists of the first 888 items in the game. Each season, a new collection featuring 888 new items will be created.
 
 <ul>
 <li>Supply: 888 tokens (222 WL / 666 PUBLIC)</li>
@@ -18,6 +18,9 @@ https://atlas3.io/project/maomao-originals
 
 
 ## Sneak Peek
+
+All of these NFTs are in-game items and have different rarity, functionality, attributes, etc.
+
 <div style="display: flex;">
 	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
 		<source src="\assets\videos\HellRaimentsV2.mp4" type="video/mp4">
@@ -38,7 +41,26 @@ https://atlas3.io/project/maomao-originals
 		Your browser does not support the video tag.
 	</video>
 </div>
-
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\190.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\195.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\143.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\181.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
 
 ## Utility
 <ul>
