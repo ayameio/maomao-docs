@@ -32,6 +32,7 @@ export default defineConfig({
       { text: 'MagicEden', link: 'https://magiceden.io/' },
       { text: 'Twitch', link: 'https://www.twitch.tv/supermalina_' },
       { text: 'Telegram', link: 'https://t.me/maomaoAnnouncer' },
+      { text: 'MallowArt', link: 'https://www.mallow.art/u/supermalina' },
     ],
 
     sidebar: [
@@ -88,6 +89,7 @@ export default defineConfig({
           { text: 'Consumables', link: '/items/consumables' },
           { text: 'Keys', link: '/items/keys' },
           { text: 'Loot Boxes', link: '/items/loot-boxes' },
+          { text: 'Wearables', link: '/items/wearables' },
         ]
       },
       {

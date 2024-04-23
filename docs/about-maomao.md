@@ -46,6 +46,3 @@ This project is dedicated to me, and I am dedicated to this project. It's a pers
 As of now, I am still unemployed and I am working on maomao full-time.
 
 <br>
-
-## Random note
-I've named this project after one of my favorite anime characters. I chose Maomao from Apothecary Diaries, because naming this after Gojo Satoru would be weird. :D
