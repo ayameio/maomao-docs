@@ -29,8 +29,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Collections', link: '/collections' },
       { text: 'DRiP', link: 'https://drip.haus/profile/supermalina' },
-      { text: 'MagicEden', link: 'https://magiceden.io/' },
-      { text: 'Twitch', link: 'https://www.twitch.tv/supermalina_' },
       { text: 'Telegram', link: 'https://t.me/maomaoAnnouncer' },
       { text: 'MallowArt', link: 'https://www.mallow.art/u/supermalina' },
     ],
@@ -39,10 +37,10 @@ export default defineConfig({
       {
         text: 'Information',
         items: [
-          { text: 'Read Me!', link: '/about-maomao' },
+          { text: 'Dev Story!', link: '/about-maomao' },
           { text: 'Originals Collection', link: '/originals-collection' },
           { text: 'The Future', link: '/future-of-maomao' },
-          { text: 'Game Sneak Peek', link: '/screenshots' },
+          { text: 'Ingame Screenshots', link: '/screenshots' },
         ]
       },
       {

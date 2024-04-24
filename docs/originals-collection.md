@@ -21,7 +21,8 @@ https://www.subber.xyz/maomao
 
 ## Sneak Peek
 
-All of these NFTs are in-game items and have different rarity, functionality, attributes, etc.
+All of these NFTs are in-game items and have different rarity, functionality, attributes, etc. The whole collection
+consists of Wearables, Consumables, Treasure Boxes, Scrolls, Keys, Gemstones, Goods and Materials.
 
 <div style="display: flex;">
 	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
@@ -60,6 +61,16 @@ All of these NFTs are in-game items and have different rarity, functionality, at
 	</video>
 	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
 		<source src="\assets\videos\181.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\394.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\533.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </div>

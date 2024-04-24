@@ -1,5 +1,8 @@
 ## Gemstones
 
+### Gemstone Transmutation
+Turn 10 Gemstone Fragments into a Gemstone. The Transmutation cost is based on the rarity of a gem. Costs can be paid with Gold Coins, Gold Bars or Diamonds.
+
 <table>
 	<thead>
 		<tr>
