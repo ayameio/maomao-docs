@@ -7,16 +7,14 @@
 ### Multiple maomao collections will be launched over the project's lifespan. maomao Originals consists of the first 888 items in the game. Each season, a new collection featuring 888 new items will be created.
 
 <ul>
-<li>Supply: 888 tokens (222 WL / 666 PUBLIC)</li>
-<li>Price: 0.88/1.11 SOL</li>
+<li>Supply: 888 tokens</li>
+<li>Price: 0.88 SOL</li>
 <li>PRE-SALE: 0.55 SOL</li>
 <li>Royalties: 4.4%</li>
 </ul>
 
-## Atlas + Subber
-https://atlas3.io/project/maomao-originals
-
-https://www.subber.xyz/maomao
+## Subber
+https://www.subber.xyz/community/maomao/allowlists/maomao
 
 
 ## Sneak Peek
