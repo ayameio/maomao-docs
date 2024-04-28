@@ -72,6 +72,26 @@ consists of Wearables, Consumables, Treasure Boxes, Scrolls, Keys, Gemstones, Go
 		Your browser does not support the video tag.
 	</video>
 </div>
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\408.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\468.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
+<div style="display: flex;">
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\371.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+	<video width="320" height="320" controls autoplay muted loop style="margin: 10px">
+		<source src="\assets\videos\523.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
+</div>
 
 ## Utility
 <ul>
